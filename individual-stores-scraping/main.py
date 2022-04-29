@@ -38,7 +38,10 @@ logger.setLevel(logging.INFO)
 
 if __name__ == '__main__':
 
+    # set chrome driver path for selenium scripts
     chrome_driver_path = "/Users/nicolasfornasari/OneDrive/19_ALPHALABS/webdriver/chromedriver_93"
+
+    # crate GCP project and add service account for load data to BigQuery
     table_id = 'mercadolibre-test-289117.test_set_2021.test_set'
 
     start_date = datetime.now()
