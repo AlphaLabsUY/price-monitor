@@ -1,0 +1,17 @@
+;GOOGLE_APPLICATION_CREDENTIALS=C:\Users\USUARIO\OneDrive\19_ALPHALABS\1_PROYECTOS\5_CEDU_Price_Monitor\5_REPOSITORY_GIT\price-monitor-alphalabs\credentials\mercadolibre-test-credentials.json
+
+
+;GOOGLE_APPLICATION_CREDENTIALS=C:\Users\USUARIO\OneDrive\19_ALPHALABS\1_PROYECTOS\5_CEDU_Price_Monitor\3_REPOSITORY\mercado-libre-scraper-master\credentials\mercadolibre-test-credentials.json
+
+-s
+C:\Users\USUARIO\OneDrive\19_ALPHALABS\1_PROYECTOS\5_CEDU_Price_Monitor\3_REPOSITORY\mercado-libre-scraper-master\stores_file.txt
+-d
+3
+-c
+C:\Users\USUARIO\OneDrive\19_ALPHALABS\1_PROYECTOS\5_CEDU_Price_Monitor\3_REPOSITORY\mercado-libre-scraper-master\credentials\mercadolibre-test-credentials.json
+-da
+mercadolibre_dataset
+-t
+first_download
+-o
+C:\Users\USUARIO\OneDrive\19_ALPHALABS\1_PROYECTOS\5_CEDU_Price_Monitor\3_REPOSITORY\mercado-libre-scraper-master
