@@ -24,7 +24,7 @@ itemadapter==0.1.0
 itemloaders==1.0.3
 jmespath==0.10.0
 lxml==4.5.2
-numpy==1.19.2
+numpy==1.22.0
 pandas==1.1.2
 parsel==1.6.0
 peppercorn==0.6
